@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1629210482 source:c:\users\smart\desktop\graphics lab\cgl_project\cityscenery_project.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<Windows.h>
+	<MMSystem.h>
+	<string.h>
+
